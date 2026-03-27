@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/Danil/Desktop/infra-toolkit status)",
+      "Bash(gh repo:*)",
+      "Bash(where gh:*)",
+      "Bash(git --version)",
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
